@@ -17,7 +17,6 @@
 		</figure>
 		<section id="tribute-info">
 			<h3 id="headline">Here's a top three interesting things!</h3>
-
 			<ul>
 				<li>Surfing</li>
 				<li>Trampolining</li>
@@ -25,7 +24,6 @@
 			</ul>
 			<a id="tribute-link" href="https://www.reddit.com/r/simpleliving/comments/b7rvha/the_habit_that_changed_my_life_journaling_if_you/" target="_blank">Here's some sweet information about diaries.</a>
 		</section>
-
 	</main>
 </body>
 </html>
